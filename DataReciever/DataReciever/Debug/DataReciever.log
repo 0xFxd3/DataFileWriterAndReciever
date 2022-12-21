@@ -1,0 +1,5 @@
+﻿  DataReciever.cpp
+C:\Users\Fadeee\source\repos\DataReciever\DataReciever\DataReciever.cpp(66,22): warning C4552: '<<': result of expression not used
+C:\Users\Fadeee\source\repos\DataReciever\DataReciever\DataReciever.cpp(84,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Fadeee\source\repos\DataReciever\DataReciever\DataReciever.cpp(79): warning C4715: 'checkdatachange': not all control paths return a value
+  DataReciever.vcxproj -> C:\Users\Fadeee\source\repos\DataReciever\Debug\DataReciever.exe
